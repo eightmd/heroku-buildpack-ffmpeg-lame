@@ -6,7 +6,7 @@ indent() {
 
 echo "-----> Install libsndfile1-dev"
 BUILD_DIR=$1
-VENDOR_DIR="vendor" 
+VENDOR_DIR="vendor"
 
 
 
